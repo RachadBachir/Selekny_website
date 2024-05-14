@@ -155,7 +155,7 @@ body {
     position: absolute;
     top: auto;
     bottom: 0%;
-    left: 70%;
+    left: 58%;
     right: 0%;
     height: 600px;
     overflow: scroll;
@@ -1037,7 +1037,7 @@ body {
                     font-family: Merriweather, serif;
                 }
                 .description{
-                    max-width: 62%;
+                    max-width: 51%;
                 }
                 
             }
@@ -1132,6 +1132,9 @@ body {
                                 .profile_image {
                                 height: 300px;                              
                                 }
+                                .profile_image {
+                                    display: none;
+                                  }
                                 }
     
                                 @media screen and (max-width: 479px) {
